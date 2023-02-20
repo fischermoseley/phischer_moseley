@@ -1,4 +1,4 @@
-# PhischerMoseley
+# phischer_moseley
 Uploading my consciousness to the machine, one API call at a time.
 
 # How it Works
